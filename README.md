@@ -16,6 +16,7 @@
 
    <div align="center">
      Build this project by <a href="https://majid-webpro.vercel.app/" target="_blank"><b>Majid Ali</b></a>
+    </div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
@@ -24,7 +25,8 @@
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
-5. 🚀 [More](#more)
+5. 🕸️ [Assets & Code](#snippets)
+6. 🚀 [More](#more)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -85,11 +87,9 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/majidali137/zoom-clone
+git clone https://github.com/majidali137/zoom-clone.git
 cd zoom-clone
 ```
-
-
 
 **Installation**
 
@@ -124,5 +124,5 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
 
+
 #
-# zoom-clone
